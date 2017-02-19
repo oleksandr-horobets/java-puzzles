@@ -1,6 +1,5 @@
 package recursion;
 
-
 /*
 Factorial is the product of all positive integers less than or equal to n.
 For example, 5 ! = 5 × 4 × 3 × 2 × 1 = 120.
